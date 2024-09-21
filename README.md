@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahmoudOsama777
+http://elmohtrfsatiptv.com:8000/get.php?username=Ibrahimkordi&password=Hasanjarissam&type=m3u_plus- 👋 Hi, I’m @MahmoudOsama777
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,4 +10,4 @@
 MahmoudOsama777/MahmoudOsama777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-http://vip.sibfungold.net:8080/get.php?username=osamafoze&password=ddR0IGAxIlZt9MbHULb9&type=m3u_plus
+http://elmohtrfsatiptv.com:8000/get.php?username=Ibrahimkordi&password=Hasanjarissam&type=m3u_plus
