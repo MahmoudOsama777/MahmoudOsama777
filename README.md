@@ -7,6 +7,7 @@ http://elmohtrfsatiptv.com:8000/get.php?username=Ibrahimkordi&password=Hasanjari
 - ⚡ Fun fact: ...
 
 <!---
+http://fastcode.me/get.php?username=060320220918&password=brj5Mm8CznTr&type=m3u
 MahmoudOsama777/MahmoudOsama777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
