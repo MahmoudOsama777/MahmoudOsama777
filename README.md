@@ -1,5 +1,7 @@
 <!-- Your title -->
-## Hi, I'm Mahmoud Osama, a Backend Developer.
+<h1 align="center">I'm Mahmoud Osama</h1>
+
+<h2 align="center"> .NET Developer | Backend Developer</h2>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
