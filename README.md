@@ -21,4 +21,6 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,swagger,sqlserver,git,html,css,js"/>
   </p>
 
-
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
